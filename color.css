@@ -1,6 +1,22 @@
 *{
     text-align: center;
-}.click{
+}
+.click{
     padding: 1rem;
     margin-top: 50vh;
+    font-size: 1rem;
+}
+
+button{
+    border-radius: .75rem;
+    border: none;
+    background: grey;
+}
+
+button:focus{
+    border: none;
+}
+
+span{
+    font-style: italic;
 }
